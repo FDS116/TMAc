@@ -1,0 +1,20 @@
+﻿Name,Formula,-∆fH°,Set,group,CO-(O)(CO),CO-(CD)(O),CO-(C)(O),CO-(H)(O),CO-(O)(CB),O-(H)(CO),O-(C)(CB),CD-(H)(CO),CB-(CO)(CB)2,CB-(O)(CB)2,C-(CO)(C)3,C-(H)2(CO)(C) ,C-(H)3(O),C-(H)3(C),C-(H)3(CB),C-(H)2(C)2,CD-(H)2,CB-(H)(CB)2,CB-(C)(CB)2,C-(H)2(C)(CB),CH3(qua),radical 1,radical 2,radical 3,radical 4,Correction 1,Correction 2,Correction 3,Correction 4
+Benzoic acid,C7H6O2,295.7,Test,acid,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+"2,6-Dimethylbenzoic acid",C9H10O2,341.6,Test,acid,0,0,0,0,1,1,0,0,1,0,0,0,0,0,2,0,0,3,2,0,0,2,6,0,0,ortho,ortho,0,0
+"2,4,6-Trimethylbenzoic acid",C10H12O2,374.2,Test,acid,0,0,0,0,1,1,0,0,1,0,0,0,0,0,3,0,0,2,3,0,0,2,4,6,0,ortho,para,ortho,0
+"2,3,4-Trimethylbenzoic acid",C10H12O2,377.3,Test,acid,0,0,0,0,1,1,0,0,1,0,0,0,0,0,3,0,0,2,3,0,0,2,3,4,0,ortho,meta,para,0
+Methanoic acid,CH2O2,378.7,Test,acid,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2,4,5-Trimethylbenzoic acid",C10H12O2,386.2,Test,acid,0,0,0,0,1,1,0,0,1,0,0,0,0,0,3,0,0,2,3,0,0,2,4,5,0,ortho,para,meta,0
+"2,3,4,5-Tetramethylbenzoic acid",C11H14O2,398.7,Test,acid,0,0,0,0,1,1,0,0,1,0,0,0,0,0,4,0,0,1,4,0,0,2,3,4,5,ortho,meta,para,meta
+Decanoic acid,C10H20O2,594.9,Test,acid,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0
+Undecanoic acid,C11H22O2,614.6,Test,acid,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0
+Phthalic acid,C8H6O4,652.2,Test,acid,0,0,0,0,2,2,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,2,0,0,0,ortho,0,0,0
+Dodecanoic acid,C12H24O2,642,Test,acid,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tridecanoic acid,C13H26O2,660.2,Test,acid,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nonadecanoic acid,C19H38O2,785.3,Test,acid,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0
+Glutaric acid,C5H8O4,837,Test,acid,0,0,2,0,0,2,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Adipic acid,C6H10O4,865,Test,acid,0,0,2,0,0,2,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sebacic acid,C10H18O4,921.9,Test,acid,0,0,2,0,0,2,0,0,0,0,0,2,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dodecanedioic acid,C12H22O4,976.9,Test,acid,0,0,2,0,0,2,0,0,0,0,0,2,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1,2,3-Benzene tricarboxylic acid",C9H6O6,,Prediction,acid,0,0,0,0,3,3,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,2,3,0,0,ortho,meta,0,0
+"1,3,5-Benzene tricarboxylic acid",C9H6O6,,Prediction,acid,0,0,0,0,3,3,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,3,5,0,0,meta,meta,0,0
